@@ -306,4 +306,5 @@ https://eprint.iacr.org/2017/891.pdf
 Maybe independent researchers should come together to do a better
 public SHA-4 round, based on better and more testing methods, open
 source code for the tests, and using standard industry practices, such
-as valgrind, address-sanitizer and ubsan to detect obvious bugs.
+as valgrind, address-sanitizer and ubsan to detect obvious bugs
+end
